@@ -23,6 +23,7 @@ Analyzed purchase behavior based on city categories and marital status.
 ***Visualization:***
 
 Used various plots such as bar charts, pie charts, and count plots to visualize the data and uncover patterns.
+
 The EDA provided valuable insights into the demographics and purchasing patterns of Black Friday shoppers, which can be used to inform marketing strategies and inventory management for future sales events.
 
 <!---
